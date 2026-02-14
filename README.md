@@ -1,41 +1,37 @@
-# HR-Analytics-Dashboard
-HR Analytics Dashboard built using Power BI to analyze employee attrition trends.
+# HR Analytics Dashboard | Power BI
 
+## Project Overview
+This project analyzes employee attrition data to identify key factors influencing employee turnover and support data-driven HR decision-making.
 
-📊 HR Analytics Dashboard
-🔍 Objective
-To analyze employee attrition patterns and identify key factors affecting employee turnover.
+## Objective
+To analyze workforce attrition patterns and identify trends across age, salary, job role, and department.
 
-🛠 Tools Used
-Power BI
+## Tools Used
+- Power BI
+- DAX
+- Excel
 
-Excel Dataset
+## Dataset Summary
+- Total Employees: 1470
+- Attrition Count: 237
+- Attrition Rate: 16.1%
+- Average Age: 37
+- Average Salary: 6.5K
 
-Data Visualization
+## Key Analysis Performed
+- Attrition rate analysis by age group
+- Attrition analysis by salary range
+- Attrition analysis by job role and department
+- Workforce distribution analysis
 
-📈 Key Metrics
-Total Employees: 1470
+## Key Insights
+- Highest attrition observed in age group 26–35
+- Employees with salary below 5K had highest attrition
+- Lab Technician and Sales roles showed high attrition
+- Life Sciences background showed higher attrition
 
-Attrition Count: 237
+## Dashboard Preview
+![Dashboard Preview](HR%20DASHBOARD.png)
 
-Attrition Rate: 16.1%
-
-Average Age: 37
-
-Average Salary: 6.5K
-
-📊 Key Insights
-Highest attrition in age group 26–35
-
-Highest attrition in Life Sciences background
-
-Highest attrition in salary group below 5K
-
-High attrition in Lab Technician and Sales roles
-
-📌 Future Improvements
-SQL based data extraction
-
-Advanced DAX calculations
-
-Automated data refresh
+## Author
+Aryan Saraswat
